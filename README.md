@@ -8,7 +8,7 @@ First I'd like to give simple answer to the question how did Europe manage to ma
 The simple answer is division of labor.
 Just a short review:  
 `(Slide - Middle Ages)`  
-As you know,  craftsmen in the Middle Ages did everything by hands and performed all the actions, e.g. starting crude, production, trade, financial issues without delegating them to others.  
+As you know, craftsmen in the Middle Ages did everything by hands and performed all the actions, e.g. starting crude, production, trade, financial issues without delegating them to others.  
 `(Slide - Venitian Arsenal)`  
 During Renaissance period, they started manufactures, where workers were organized with such principles as:
 + Doing work mostly by hands, but such feature as division of labor was invented 
@@ -17,7 +17,7 @@ During Renaissance period, they started manufactures, where workers were organiz
 `(Slide - factories)`  
 The 19th century faced huge changes. One of them was factories with machinery, automation, extreme division of labor and  
 `(Slide - Karl Marx)`  
-Karl Marx.  
+Karl Marx. He has bicentenary this year  
 `(Slide - Happy Birthday)`  
 As we see the division of the whole process into pieces and doing something in a repetitive way is the key to success in any business. However, this  
  `(Slide - Charlie Chaplin)`  
@@ -28,14 +28,14 @@ At the begining of IT-business, they had already realized the crucial role which
 `(Slide - Waterfall Pearl in nature)`  
  They used to think about product and its development in terms of waterfall.  
  `(Slide - development steps  in IT)`  
-It means that they thought about the product-development as integral whole, which consists of several consecutive steps without possibility to reorder them.
+It means that they thought about the product-development as integral whole, which consists of several consecutive steps which can hardly be reordered.  
  `(Slide - step back  in IT)`  
 It involves some problems:  
 In case of corrections, you have to go back to the previous step, while other members of the team have to wait.  
 `(Slide - one works, other watch)`  
 Or even worse, you have to do all the work over and over again, which takes a lot of time and efforts, night and overtime work,  
 `(Slide - guy with whip on a galley)`  
-Project Manager looks like a guy with a whip in the center of the pic and you still don't meet deadline. It can be exhausting, overwhelming and hard. 
+Project Manager looks like a guy with a whip in the center of the pic and you still don't meet deadline. It can be exhausting, overwhelming and hard.  
 `(Slide - House MD)`  
 As House MD said:
 > work smart, not hard.  
